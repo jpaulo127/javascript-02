@@ -6,3 +6,10 @@ function pessoa() {
     }, 2000)
 }
 const p1 = new pessoa()
+
+/*
+ * arrow Function
+ * (p1, p2) => {expressãp}
+ * (p1, p2) => expressão
+ * p1 => {expressao}
+ */
