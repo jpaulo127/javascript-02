@@ -22,7 +22,10 @@ class Cachorro extends Animal{
         console.log(this.especie + ' fala au au au')
     }
 }
+/*
 const cachorro = new Cachorro('cachorro')
 cachorro.falar()
 cachorro.comer()
 cachorro.dormir()
+*/
+export default Cachorro
