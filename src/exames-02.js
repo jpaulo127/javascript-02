@@ -1,4 +1,6 @@
-import carros from './car.js'
+import getcarros from './car.js'
+
+const carros = getcarros()
 
 const filtercarros = carros.filter( (carros)=>{
     return carros.year === 2023
